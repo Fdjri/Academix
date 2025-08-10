@@ -2,7 +2,7 @@
 
 Selamat datang di repositori Academix, sebuah proyek aplikasi desktop yang dikembangkan untuk memenuhi tugas Ujian Akhir Semester (Uas) mata kuliah Pemrograman Berorientasi Objek (PBO/OOP).
 
-📜 Deskripsi Proyek
+# 📜 Deskripsi Proyek
 
 Academix adalah prototipe Sistem Informasi Akademik berbasis desktop. Aplikasi ini dirancang untuk mengelola data fundamental dalam sebuah lingkungan akademik, seperti data mahasiswa, mata kuliah, dan nilai.
 
