@@ -50,9 +50,9 @@ Pastikan Anda telah menginstal perangkat lunak berikut:
 
 1. JDK (Java Development Kit)
 
-- Apache NetBeans IDE
+2. Apache NetBeans IDE
 
-- XAMPP (untuk Web Server Apache dan Database MySQL)
+3. XAMPP (untuk Web Server Apache dan Database MySQL)
 
 ### Langkah-langkah Setup
 
